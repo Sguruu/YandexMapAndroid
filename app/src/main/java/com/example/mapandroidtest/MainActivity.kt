@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
          * Рекомендуется устанавливать ключ в методе Application.onCreate,
          * но в данном примере он устанавливается в activity.
          */
-        MapKitFactory.setApiKey("c009aa7f-9b26-4171-8d62-1a785e71b19f")
+        MapKitFactory.setApiKey("ApiKey")
 
         /**
          * Инициализация библиотеки для загрузки необходимых нативных библиотек.
